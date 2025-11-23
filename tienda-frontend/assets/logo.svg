@@ -1,6 +1,0 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" width="140" height="28" viewBox="0 0 140 28">
-  <rect rx="6" width="140" height="28" fill="#131921"/>
-  <text x="10" y="19" font-family="Segoe UI, Arial" font-size="16" fill="#fff" font-weight="700">Tienda</text>
-  <text x="65" y="19" font-family="Segoe UI, Arial" font-size="16" fill="#ff9900" font-weight="900">API</text>
-</svg>
